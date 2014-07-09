@@ -1,0 +1,7 @@
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\bin\Debug\UDPServ.XML
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\bin\Debug\UDPServ.dll
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\bin\Debug\UDPServ.pdb
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\bin\Debug\FSharp.Core.dll
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\bin\Debug\FSharp.Core.xml
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\obj\Debug\UDPServ.dll
+C:\Users\Филипп\SkyDrive\Git\TCPServ\UDPServ\obj\Debug\UDPServ.pdb
