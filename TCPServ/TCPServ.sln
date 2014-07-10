@@ -11,6 +11,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Interpret", "Interpret\Inte
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UDPServ", "UDPServ\UDPServ.fsproj", "{B9AD06B2-A93F-4515-9998-7BB613D09DD9}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AsyncUdpServ", "AsyncUdpServ\AsyncUdpServ.fsproj", "{ED2C450B-2924-41DF-9FEB-A39260747DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B9AD06B2-A93F-4515-9998-7BB613D09DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9AD06B2-A93F-4515-9998-7BB613D09DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9AD06B2-A93F-4515-9998-7BB613D09DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2C450B-2924-41DF-9FEB-A39260747DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2C450B-2924-41DF-9FEB-A39260747DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2C450B-2924-41DF-9FEB-A39260747DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2C450B-2924-41DF-9FEB-A39260747DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,8 +9,9 @@ let main argv =
     let port = 3000
     let sender = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp)
     let ep = new IPEndPoint(IPAddress.Parse "192.168.0.255", port)
-    let msg = Encoding.ASCII.GetBytes(Console.ReadLine().ToString())
+    while true do
+        let mutable msg = Encoding.ASCII.GetBytes(Console.ReadLine().ToString())
     //while true do
-    sender.SendTo(msg, ep) |> ignore
+        sender.SendTo(msg, ep) |> ignore
     printfn "%A" "Send"
     0 

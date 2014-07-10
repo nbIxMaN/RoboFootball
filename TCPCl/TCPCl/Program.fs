@@ -26,6 +26,6 @@ type TCPClient(?ipAddr, ?port) =
 
 [<EntryPoint>]
 let main argv = 
-    let sender = new TCPClient("192.168.1.1", 2000)
+    let sender = new TCPClient("192.168.0.108", 2000)
     Console.ReadKey() |> ignore
     0 
